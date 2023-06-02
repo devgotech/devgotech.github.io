@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://jamesgotech.github.io'
 languageCode = 'en-us'
 title = 'DEV GOTECH PORTFOLIO'
 theme = 'hugo-resume'
@@ -15,7 +15,7 @@ favicon = "/favicon.ico"
 firstName = "James"
 lastName = "Anyalewechi"
 phone = "(+234) 8103202050"
-profileImage = "img/TechChat.png"
+profileImage = "img/profile-photo.jpg"
 showEducation = true
 showExperience = true
 showOpenSource = true
